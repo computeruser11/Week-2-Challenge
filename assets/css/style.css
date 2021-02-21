@@ -5,3 +5,36 @@ body {
 header h1 {
     text-align: center;
 }
+
+.project-titles {
+    text-align: center;
+}
+
+.enlarge:hover {
+    transform: scale(1.2)
+}
+
+
+.flexbox-container {
+    display: flex;
+}
+
+.flexbox-item {
+}
+
+.flexbox-item-1 {
+    margin-right: 10px;
+}
+
+.flexbox-item-2 {
+    margin-right: 10px;
+    
+}
+
+.flexbox-item-3 {
+    
+}
+
+#about_me, #my_work {
+    margin-bottom: 20px;
+}
